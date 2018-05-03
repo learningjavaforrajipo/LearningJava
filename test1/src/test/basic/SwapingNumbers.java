@@ -8,7 +8,7 @@ public class SwapingNumbers {
 	public SwapingNumbers() {}
 	public void SwapingNumbers(int a, int b) {
 		this.x = a;
-		this.y = b;
+		this.y =  b;
 	}
 	
 	public void swapingNumberUsingThirdVariable(int var1, int var2) {
