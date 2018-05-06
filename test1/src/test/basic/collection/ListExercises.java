@@ -37,6 +37,11 @@ public class ListExercises {
 			}
 
 		}
+		
+		for(String str : gohelFamily) {
+			String abc = (str.contains("PB")) ? str :""; // condition ? true : false
+			if(abc != "") System.out.println(abc);
+		}
 
 		System.out.println("\n" + count + " Members of Gohel Family have PB as salutation:\n " );
 		
