@@ -18,6 +18,7 @@ public class Exe7FileIO {
 		 FileReader read1 = new FileReader("files/temp.txt");
 		    BufferedReader buffRead1 = new BufferedReader(read1);
 	        
+		    
 	        String lineToRead;
 	        String [] strOut;
 	        while( (lineToRead = buffRead1.readLine()) != null) {
