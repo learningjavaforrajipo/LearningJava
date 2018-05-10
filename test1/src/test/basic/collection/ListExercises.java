@@ -21,7 +21,7 @@ public class ListExercises {
 		gohelFamily.add("Om");
 		gohelFamily.add("PB Rajukaka");
 		gohelFamily.add("Masi");
-		gohelFamily.add("Mrs Rajukaka");
+		gohelFamily.add("Mrs Rajukakaa");
 		
 		System.out.println("Members of Gohel Family \n \n" );
 		for(String str : gohelFamily) {
